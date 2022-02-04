@@ -7,9 +7,9 @@
 ![issues](https://img.shields.io/github/issues/RamonSilva20/mapos.svg?longCache=true&style=flat-square)
 ![contributors](https://img.shields.io/github/contributors/RamonSilva20/mapos.svg?longCache=true&style=flat-square)
 
-### [Feedback](https://github.com/RamonSilva20/mapos/discussions) - Vote ou sugira melhorias
+### [Feedback](https://github.com/wdtechnology/checklist/discussions) - Vote ou sugira melhorias
 
-![Map-OS](https://raw.githubusercontent.com/RamonSilva20/mapos/master/docs/dashboard.png)
+![Map-OS](https://raw.githubusercontent.com/wdtechnology/checklist/master/docs/dashboard.png)
 
 ### [Instalação](Instalacao_xampp_windows.md)
 
@@ -112,5 +112,5 @@ Doações podem ser realizadas nos links:
 
 
 ## Autor
-| [<img src="https://avatars.githubusercontent.com/RamonSilva20?s=115"><br><sub>Ramon Silva</sub>](https://github.com/RamonSilva20) |
+| [<img src="https://avatars.githubusercontent.com/RamonSilva20?s=115"><br><sub>@XTecnology - Williams Dantas</sub>](https://github.com/wdtechnology) |
 | :---: |
